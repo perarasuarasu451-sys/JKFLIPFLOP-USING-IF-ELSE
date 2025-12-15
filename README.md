@@ -79,7 +79,7 @@ Developed by:PERARASU K RegisterNumber:25004665
 <img width="1010" height="697" alt="image" src="https://github.com/user-attachments/assets/56422f42-5162-480f-99a1-7c171eac5aeb" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1313" height="415" alt="image" src="https://github.com/user-attachments/assets/0cf3ff71-1a3c-48c7-b29f-f678b2937c4c" />
+![image](https://github.com/user-attachments/assets/c50cccb4-76ff-44ff-8d28-e798eb142e4c)
 
 **RESULTS**
 Thus the jk flipflop is implemented and verified.
